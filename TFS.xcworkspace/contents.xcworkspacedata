@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:TFSARTestApp/../TFSCore.xcodeproj">
+      location = "group:TFSCore/TFSCore.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:TFSARTestApp/TFSARTestApp.xcodeproj">
