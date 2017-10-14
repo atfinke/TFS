@@ -1,1 +1,1 @@
-# Traveling-Fireworks-Spectacular
+# Traveling Fireworks Spectacular
