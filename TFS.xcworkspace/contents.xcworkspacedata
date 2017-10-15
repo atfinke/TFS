@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TFSCATests/TFSCATests.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:TFPCrossPlatformTestApp/TFPCrossPlatformTestApp.xcodeproj">
    </FileRef>
    <FileRef
