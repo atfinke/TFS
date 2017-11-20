@@ -28,6 +28,8 @@
 		145640F91F91C5D800C4372F /* m.scnp in Resources */ = {isa = PBXBuildFile; fileRef = 145640F61F91C5D800C4372F /* m.scnp */; };
 		145640FA1F91C5D800C4372F /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 145640F71F91C5D800C4372F /* spark.png */; };
 		145640FB1F91C5D800C4372F /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 145640F71F91C5D800C4372F /* spark.png */; };
+		1466D7131FB36A690072AE2B /* Firework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1466D7121FB36A690072AE2B /* Firework.swift */; };
+		1466D7141FB36A690072AE2B /* Firework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1466D7121FB36A690072AE2B /* Firework.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,7 @@
 		1456406B1F91AC4F00C4372F /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = star.png; path = Art.scnassets/star.png; sourceTree = "<group>"; };
 		145640F61F91C5D800C4372F /* m.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = m.scnp; sourceTree = "<group>"; };
 		145640F71F91C5D800C4372F /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		1466D7121FB36A690072AE2B /* Firework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Firework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,7 @@
 		145640381F91AB5000C4372F /* TFPCrossPlatformTestApp Shared */ = {
 			isa = PBXGroup;
 			children = (
+				1466D7121FB36A690072AE2B /* Firework.swift */,
 				145640391F91AB5000C4372F /* GameController.swift */,
 				145640F61F91C5D800C4372F /* m.scnp */,
 				145640F71F91C5D800C4372F /* spark.png */,
@@ -240,6 +244,7 @@
 			files = (
 				145640461F91AB5000C4372F /* GameViewController.swift in Sources */,
 				1456405C1F91AB5000C4372F /* GameController.swift in Sources */,
+				1466D7131FB36A690072AE2B /* Firework.swift in Sources */,
 				145640441F91AB5000C4372F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,6 +255,7 @@
 			files = (
 				145640571F91AB5000C4372F /* GameViewController.swift in Sources */,
 				1456405D1F91AB5000C4372F /* GameController.swift in Sources */,
+				1466D7141FB36A690072AE2B /* Firework.swift in Sources */,
 				145640551F91AB5000C4372F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
